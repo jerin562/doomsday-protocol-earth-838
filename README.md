@@ -11,6 +11,7 @@ Campaign HQ site: https://sites.google.com/view/earth838-nike-hq
 | Watcher |Shamil |
 ## Integrity pact
 We will only claim evidence we can show. We will verify every AI claim.
+I, Alen, will only claim evidence i can show
 I, Kavin, will only claim evidence i can show
 I, Ranjana, will only claim evidence i can show
 I, Sheba, will only claim evidence i can show
