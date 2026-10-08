@@ -6,7 +6,7 @@ Campaign HQ site: https://sites.google.com/view/earth838-nike-hq
 | Captain |Jerin |
 | Stark |Sheba |
 | Banner |Alen |
-| Romanoff |Rangana |
+| Romanoff |Ranjana |
 | Strange |Kavin |
 | Watcher |Shamil |
 ## Integrity pact
